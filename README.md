@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Mayank and I like to build stuff using tech. 👋
 
 <!--
 **koliMayank/koliMayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
